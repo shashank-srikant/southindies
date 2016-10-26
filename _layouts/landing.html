@@ -13,13 +13,17 @@
     {% include page-bar.html %}
     <div class="pusher">
     {% endif %}
-        {%if page.title == 'Home' %}
-          {% include home-header.html %}
+        <!--
+		{%if page.title == 'Home' %}
+          {% include home-header.html %} 
         {% else %}
           {% include landing-header.html %}
         {% endif %}
+		-->
         {{ content }}
-        {% include footer.html %}
+        <!--
+		{% include footer.html %}
+		-->
     {% if site.pagebar %}
     </div>
     {% endif %}
