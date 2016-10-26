@@ -7,4 +7,6 @@ Enjoy recipes of traditional, home-made Indian food.
 * **Multiple cuisines**: Southindies may be a misnomer as the site can surely accommodate cuisines from different geographies. But the motivational roots can be traced to southi India delicacies.
 * **Redundancy?**: There may be several other sites which probably provide similar information. But the authors of this blog believe that there are nuances in taste and texture across house-holds. This is to preserve and document what has been _engineered_ in the authors' households.
 
-
+## Contributors
+* Padmaja Srikant
+* Shashank Srikant [[webpage]](https://shashank-srikant.github.io)
