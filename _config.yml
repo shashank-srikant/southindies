@@ -1,9 +1,9 @@
-name: Coding in the Rain
+name: Southindies - Recepies from the south
 markdown: kramdown
 highlighter: rouge
 permalink: date
-google_analytics_code: UA-92810-1
-url: http://ascarter.net
+google_analytics_code: UA-89617148-1
+url: http://southindies.in
 exclude:
 - config.ru
 - Gemfile
